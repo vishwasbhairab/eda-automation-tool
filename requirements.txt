@@ -1,0 +1,8 @@
+pandas
+streamlit
+sweetviz
+ydata-profiling
+dtale
+openpyxl
+matplotlib
+seaborn
