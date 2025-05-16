@@ -2,7 +2,7 @@
 
 A comprehensive Streamlit-based application for automating Exploratory Data Analysis (EDA). This tool integrates multiple popular EDA libraries including Sweetviz, Pandas Profiling (ydata-profiling), and DTale to provide robust data insights with minimal effort.
 
-![EDA Automation Tool](https://via.placeholder.com/800x400?text=EDA+Automation+Tool)
+![EDA Automation Tool](https://eda-automation-tool.streamlit.app/)
 
 ## Features
 
