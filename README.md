@@ -24,12 +24,6 @@ A comprehensive Streamlit-based application for automating Exploratory Data Anal
   - Comparison dataset upload for comparative analysis
   - Configurable report generation settings
 
-## Screenshots
-
-![Data Upload](https://via.placeholder.com/400x250?text=Data+Upload)
-![Sweetviz Report](https://via.placeholder.com/400x250?text=Sweetviz+Report)
-![Pandas Profiling](https://via.placeholder.com/400x250?text=Pandas+Profiling)
-![DTale Explorer](https://via.placeholder.com/400x250?text=DTale+Explorer)
 
 ## Installation
 
